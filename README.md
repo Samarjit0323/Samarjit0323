@@ -36,7 +36,6 @@ Just another common human being :) <br>
 
 ## Fun
 ![](https://readme-jokes.vercel.app/api?hideBorder)
-![gitartwork](gitartwork.svg)
 <!--
 **Samarjit0323/Samarjit0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
