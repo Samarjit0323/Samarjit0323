@@ -1,7 +1,7 @@
 ## Hello folks👋
-I'm Samarjit Santra 👨‍💻  (Profile Visitors:![Visitor Count](https://profile-counter.glitch.me/Samarjit0323/count.svg) )<br>
+I'm Samarjit Santra 👨‍💻 Mucho gusto! (Profile Visitors:![Visitor Count](https://profile-counter.glitch.me/Samarjit0323/count.svg) )<br>
 2nd Year, CSE UG, Jalpaiguri Government Engineering College <br>
-Just another common human being :) <br>
+A worthless human. <br>
 ## Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samarjit0323&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarjit0323&theme=2077)
