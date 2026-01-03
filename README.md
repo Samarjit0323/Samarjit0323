@@ -1,5 +1,5 @@
 ## Hello folks👋
-I'm Samarjit Santra 👨‍💻 Mucho gusto! (Profile Visitors:![Visitor Count](https://profile-counter.glitch.me/Samarjit0323/count.svg) )<br>
+I'm Samarjit Santra 👨‍💻 Mucho gusto! <br>
 3rd Year, CSE UG, Jalpaiguri Government Engineering College <br>
 A worthless human. <br>
 ## Summary
